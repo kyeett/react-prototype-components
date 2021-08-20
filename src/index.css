@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Card {
+  border-radius: 10px;
+  z-index: 1;
+}
+
+.Enemy {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  z-index: 1000;
+}
